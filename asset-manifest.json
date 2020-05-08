@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dofuscrapper-frontend/static/css/main.d1b05096.chunk.css",
+    "main.js": "/dofuscrapper-frontend/static/js/main.d483c1be.chunk.js",
+    "main.js.map": "/dofuscrapper-frontend/static/js/main.d483c1be.chunk.js.map",
+    "runtime-main.js": "/dofuscrapper-frontend/static/js/runtime-main.841804a1.js",
+    "runtime-main.js.map": "/dofuscrapper-frontend/static/js/runtime-main.841804a1.js.map",
+    "static/css/2.7019c8ab.chunk.css": "/dofuscrapper-frontend/static/css/2.7019c8ab.chunk.css",
+    "static/js/2.2d11df9c.chunk.js": "/dofuscrapper-frontend/static/js/2.2d11df9c.chunk.js",
+    "static/js/2.2d11df9c.chunk.js.map": "/dofuscrapper-frontend/static/js/2.2d11df9c.chunk.js.map",
+    "index.html": "/dofuscrapper-frontend/index.html",
+    "precache-manifest.8bc4863d9c5ebfe0a8192963e059c1e7.js": "/dofuscrapper-frontend/precache-manifest.8bc4863d9c5ebfe0a8192963e059c1e7.js",
+    "service-worker.js": "/dofuscrapper-frontend/service-worker.js",
+    "static/css/2.7019c8ab.chunk.css.map": "/dofuscrapper-frontend/static/css/2.7019c8ab.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/dofuscrapper-frontend/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.2d11df9c.chunk.js.LICENSE.txt": "/dofuscrapper-frontend/static/js/2.2d11df9c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dofuscrapper-frontend/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.841804a1.js",
+    "static/css/2.7019c8ab.chunk.css",
+    "static/js/2.2d11df9c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d483c1be.chunk.js"
+  ]
+}
